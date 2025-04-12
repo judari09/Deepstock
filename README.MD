@@ -1,6 +1,6 @@
 # 📦 DeepStock - Sistema Inteligente de Gestión Visual de Inventarios
 
-**DeepStock** es una solución basada en visión por computadora para monitorear el estado de los anaqueles en tiendas físicas y generar alertas de reabastecimiento automático. Utiliza modelos de detección de objetos (YOLOv12) para analizar imágenes del lineal de productos y determinar el porcentaje de ocupación de cada sección.
+**DeepStock** es una solución basada en visión por computadora para monitorear el estado de los anaqueles en tiendas físicas y generar alertas de reabastecimiento automático. Utiliza modelos de detección de objetos (YOLO) para analizar imágenes del lineal de productos y determinar el porcentaje de ocupación de cada sección.
 
 ---
 
@@ -20,4 +20,4 @@
 
 🧑‍💻 Autor
 Juan David Rivaldo Diaz Sierra 
-[GitHub](https://github.com/judari09) · [linkedin]https://www.linkedin.com/in/juan-david-rivaldo-diaz-sierra-72aa99222/
+[GitHub](https://github.com/judari09) · [linkedin](https://www.linkedin.com/in/juan-david-rivaldo-diaz-sierra-72aa99222/)
