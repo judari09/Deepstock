@@ -11,9 +11,8 @@ class detector():
         self.conf = conf
         self.model = YOLO(model_path) # Load the YOLO model
 
-    def detect(self, image_path: str):
+    def detect(self, image):
         # Preprocess the image
-        image = cv2.imread(image_path)
         image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
         image = cv2.resize(image, (640, 640))
         results = self.model(image)
